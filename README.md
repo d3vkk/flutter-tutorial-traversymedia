@@ -2,7 +2,7 @@
 
 ![Dart Bird](https://github.com/d3vkk/word-pair-generator/blob/master/dartbird.png)
 
-Word Pair Generator in Flutter from Traversy Media
+Word Pair Generator in Flutter from Traversy Media. With short, useful comments
 
 [Youtube Video](https://www.youtube.com/watch?v=1gDhl4leEzA)
 
